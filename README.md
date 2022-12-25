@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩‍💻  FullStack Developer <br>🎂  21 yo <br>🏠   from Morocco living in Casablanca<br>🏢  working at EasySystem<br></> working with  HTML5  CSS(Bootstrap)  JS  C#  SQL-Server<br>       ASP.NET MVC 
+👩‍💻  FullStack Developer <br>🎂  21 Yo <br>🏠   From Morocco living in Casablanca<br>🏢  Working at EasySystem<br></> Working with  HTML5  CSS(Bootstrap)  JS  C#  SQL-Server<br>       ASP.NET MVC 
 
 
 ## 🌐 Socials:
